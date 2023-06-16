@@ -1,0 +1,102 @@
+[
+	{
+			"name": "Apartment 1",
+			"imgURL": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fw7p95yj5rxy54zpvggkpm19ba0i215&option=N&h=472&permitphotoenlargement=false",
+			"rating": 4,
+			"address": "123 Main St",
+			"rooms": 3,
+			"bathrooms": 2,
+			"area": 1200,
+			"price": 250000
+	},
+	{
+			"name": "Apartment 2",
+			"imgURL": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fc2hpr3rr3eqf4ha4yrhk92m7r7i215&option=N&h=472&permitphotoenlargement=false",
+			"rating": 3,
+			"address": "456 Elm St",
+			"rooms": 4,
+			"bathrooms": 3,
+			"area": 1800,
+			"price": 350000
+	},
+	{
+			"name": "Apartment 3",
+			"imgURL": "https://images.zerodown.com/crmls//mediaz/11e5394c-1197-4bf3-846c-d6b5f27f2eaf.jpg?preset=X-Large&tr=f-auto,w-640,h-360",
+			"rating": 5,
+			"address": "789 Oak St",
+			"rooms": 2,
+			"bathrooms": 1,
+			"area": 800,
+			"price": 200000
+	},
+	{
+			"name": "Apartment 4",
+			"imgURL": "https://www.capreit.ca/wp-content/uploads/2022/04/2-kol-apartments-ottawa-ON-exterior.jpg",
+			"rating": 5,
+			"address": "321 Maple Ave",
+			"rooms": 5,
+			"bathrooms": 4,
+			"area": 2500,
+			"price": 450000
+	},
+	{
+			"name": "Apartment 5",
+			"imgURL": "https://photos.zillowstatic.com/fp/d11da4a8544efa19822b6da3ff22b97a-p_e.webp",
+			"rating": 4,
+			"address": "654 Pine St",
+			"rooms": 2,
+			"bathrooms": 1,
+			"area": 900,
+			"price": 180000
+	},
+	{
+			"name": "Apartment 6",
+			"imgURL": "https://photos.zillowstatic.com/fp/fd3ba535853e5f2aa2aaed0ea00dd0b1-p_e.jpg",
+			"rating": 3,
+			"address": "987 Cedar St",
+			"rooms": 3,
+			"bathrooms": 2,
+			"area": 1300,
+			"price": 280000
+	},
+	{
+			"name": "Apartment 7",
+			"imgURL": "https://mapartments.co.uk/uploads/transforms/b235c4646ab36ef9ae959de20fa459fc/11257/401_topRenders_b_7abbbb2796f27c91ef535646dc2c5299.webp",
+			"rating": 4,
+			"address": "246 Walnut Ave",
+			"rooms": 4,
+			"bathrooms": 3,
+			"area": 1700,
+			"price": 320000
+	},
+	{
+			"name": "Apartment 8",
+			"imgURL": "https://photos.zillowstatic.com/fp/59d9f41ad5c160bfdfdc423768eadc74-cc_ft_960.jpg",
+			"rating": 5,
+			"address": "135 Spruce St",
+			"rooms": 3,
+			"bathrooms": 2,
+			"area": 1100,
+			"price": 240000
+	},
+	{
+			"name": "Apartment 9",
+			"imgURL": "https://fastrack-waterfront-apartments.imgix.net/uploads/waterfront1009-1-copy-1--1.jpg?auto=format&fit=max&h=800&ixlib=php-2.1.1&q=80&s=6b90119a864d53ef1bd3d3f68b319a32",
+			"rating": 3,
+			"address": "864 Birch Ave",
+			"rooms": 2,
+			"bathrooms": 1,
+			"area": 950,
+			"price": 195000
+	},
+	{
+			"name": "Property 10",
+			"imgURL": "https://mediavault.point2.com/Image/Listing/7922746596_large.jpg",
+			"rating": 4,
+			"address": "579 Oak St",
+			"rooms": 4,
+			"bathrooms": 3,
+			"area": 2000,
+			"price": 380000
+	}
+]
